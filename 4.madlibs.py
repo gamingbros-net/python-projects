@@ -1,0 +1,10 @@
+adjective1 = input("Enter an adjective:")
+adjective2 = input("Enter another adjective: ")
+verb1 = input("Enter a verb: ")
+noun1  = input("Enter a noun: ")
+adjective3 = input("Enter another adjective: ")
+
+print(f"Today i built my first code and it was {adjective1}")
+print(f"it was so {adjective2} that i had to {verb1} it")
+print(f"coding feels like a {noun1} sometimes")
+print(f"but in the end it makes me feel {adjective3}")
